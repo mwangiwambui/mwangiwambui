@@ -1,5 +1,8 @@
 name: daily-devcard
 
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   push:
@@ -11,12 +14,8 @@ on:
 jobs:
   devcard:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.2.0
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-          commit_branch: devcard
-          commit_message: "chore: update ${filename}"
