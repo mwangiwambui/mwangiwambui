@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/mwangiwambui"><img src="https://api.daily.dev/devcards/2d8597a5f7054d7b8b2b2bfedb842129.png?r=g1r" width="400" alt="Naomi Mwangi's Dev Card"/></a>
+<a href="https://app.daily.dev/mwangiwambui"><img src="https://github.com/mwangiwambui/mwangiwambui/blob/master/devcard.svg" width="400" alt="Mwangi Wambui's Dev Card"/></a>
 
 <!--
 **mwangiwambui/mwangiwambui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
